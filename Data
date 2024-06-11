@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package projectb;
+
+/**
+ * @author jaask
+ */
+public class Data {
+	
+	int A1,A2,A3,B1,B2,B3;
+	boolean goFunA2 = false;
+	boolean goFunA3 = false;
+	boolean goFunB2 = false;
+	boolean goFunB3 = false;
+}
+
+
+
